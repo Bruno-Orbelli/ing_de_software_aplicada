@@ -1,0 +1,7 @@
+<suite name="FirstAndLastSuite">
+    <test name="TestNG Exercises">
+        <classes>
+            <class name="TestNGSuite"/>
+        </classes>
+    </test>
+</suite>
